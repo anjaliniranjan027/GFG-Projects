@@ -1,8 +1,3 @@
-# GFG Projects
-
-A collection of projects created while learning and experimenting with Python and data visualization.
-
----
 
 ## 📌 Project 01 — GeeksforGeeks Word Cloud
 
@@ -13,11 +8,6 @@ The word cloud highlights the most frequently used words visually.
 - Fetches summary from Wikipedia using the `wikipedia` Python module.
 - Generates a word cloud using the `wordcloud` library.
 - Saves the generated image locally for later use.
-
-### 📷 Output
-The output image (`geeksforgeeks_wordcloud.png`) will look something like this:
-
-![Word Cloud](geeksforgeeks_wordcloud.png)
 
 ### 📦 Requirements
 Make sure you have Python installed (3.x recommended) and install the dependencies:
